@@ -118,11 +118,10 @@
 
 ## 快速开始 🚀
 
-下载一键启动包，解压直接使用（路径不要有 **中文** 和 **空格**）
+下载一键启动包，解压直接使用（路径不要有 **中文**、**特殊字符**、**空格**）
 
 ### Windows
-
-- 百度网盘: https://pan.baidu.com/s/1MzBmcLTmVWohPEp9ohvvzA?pwd=pdcu 提取码: pdcu
+- 百度网盘（1.2.1 最新版本）: https://pan.baidu.com/s/1pSNjxTYiVENulTLm6zieMQ?pwd=g36q 提取码: g36q
 
 下载后，建议先**双击执行** `update.bat` 更新到**最新代码**，然后双击 `start.bat` 启动
 
